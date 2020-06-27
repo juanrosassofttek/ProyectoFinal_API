@@ -1,5 +1,6 @@
 {
-	warning: {
-		id: 1,
-		message: 'Test Message'
+	"warning": {
+		"id": "1",
+		"message": "Test Message"
+	}
 }
